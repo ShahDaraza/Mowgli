@@ -22,27 +22,20 @@ To get started with either the initial setup or the final version, follow these 
     cd Mowgli
     ```
 
-### Initial Setup
 
-2. **Switch to the `initial-setup` Branch**:
-
-    ```bash
-    git checkout initial-setup
-    ```
-
-3. **Install Dependencies**:
+2. **Install Dependencies**:
 
     ```bash
     npm install
     ```
 
-4. **Run the Development Server**:
+3. **Run the Development Server**:
 
     ```bash
     npm run dev
     ```
 
-5. **Open Your Browser**:
+4. **Open Your Browser**:
 
     Navigate to localhost to see the initial setup.
 
