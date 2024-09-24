@@ -19,7 +19,7 @@ To get started with either the initial setup or the final version, follow these 
 
     ```bash
     git clone https://github.com/Mowgli.git
-    cd Hamster-Kombat-Telegram-Mini-App-Clone
+    cd Mowgli
     ```
 
 ### Initial Setup
